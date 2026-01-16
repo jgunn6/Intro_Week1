@@ -9,17 +9,36 @@
 - Survey
 
 - Overview of Operating Systems
-  - Windows
-  - Mac
+	- proprytairy 
+ 	 	- Windows
+ 	 	- Mac
   - Linux
+	  - flavors
+    	-red hat linux
+-mac and linux use unixs
 
 - Some fundamentals
   - Memory (RAM)
+  	- random asses memory
+    -  just the now
+    -  activily working on  
   - File storage (hard drives)
+  	-stores thing for long time  
   - CPU
+  	- thing thats doing most the owrk
+    - cetral processing unit
+    - many cpus within one M chip in MAC
   - GPU
+    - graphic processing unit
+    - bigge physical peice of computer
+    - many many tiny processors
+    - parrelle compiting
+    	-AI 
+    - serial computing
+       -one after another
+       -  
 
-- Unix Filesystem
+**- Unix Filesystem
 	- [Filesystem overview](https://github.com/FoundCompBio-Spr26/Intro_Week1/blob/main/Filesystems.md)
  	- The Unix root (/)
    		- The very base of the filesystem
@@ -31,7 +50,7 @@
 		- Shortcuts for current and parent directories
 	- Hidden files and folders
 		- Names begin with `.`
-		- Usually used for configuration files
+		- Usually used for configuration files**
 
 - [Practical Computing Tips](https://github.com/FoundCompBio-Spr26/Intro_Week1/blob/main/ComputingTips.md)
 
