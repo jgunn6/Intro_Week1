@@ -2,6 +2,8 @@
 
 - Introductions
 
+- some other topic
+
 - Syllabus Overview and Questions
 	
 - Survey
