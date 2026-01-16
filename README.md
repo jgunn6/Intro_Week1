@@ -37,11 +37,12 @@
     - serial computing
        -one after another
        -  
-
+**
 **- Unix Filesystem
 	- [Filesystem overview](https://github.com/FoundCompBio-Spr26/Intro_Week1/blob/main/Filesystems.md)
  	- The Unix root (/)
    		- The very base of the filesystem
+     - every full path start at the root
 	- Absolute paths
 		- All absolute paths begin at the root- start with /
 	- Relative paths
